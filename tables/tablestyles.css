@@ -1,0 +1,33 @@
+body {
+	background-color:#E70009;
+	width:1000px;
+}
+
+div {
+
+}
+
+table {
+	background-color:#bab8b7;
+	border: 1px solid black;
+	width: 1000px;
+}
+
+th {
+	background-color:#bab8b7;
+	border: 1px solid black;
+}
+tr {
+	background-color:#bab8b7;
+	border: 1px solid black;
+}
+td {
+	background-color:#FFFFFF;
+	border: 1px solid black;
+	
+}
+
+img {
+	width: 100%;
+	height: auto;
+}

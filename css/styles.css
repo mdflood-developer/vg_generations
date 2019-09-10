@@ -1,0 +1,26 @@
+body {
+	background-color:#E70009;
+	width:1000px;
+	margin: auto;
+}
+
+div {
+	background-color:#FFFFFF;
+	width: 500px;
+	padding: 10px;
+	margin: auto;
+}
+
+table {
+	background-color:#bab8b7;
+	border: 1px solid black;
+}
+
+td {
+	background-color:FFFFFF;
+	border: 1px solid black;
+}
+
+td.highlight:hover {
+	background-color: yellow;
+}
